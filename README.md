@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, i'm Tesfaldet Fesshiai(He/Him)
+## 🔭 I’m currently working on my bachelors degree at the university of Minnesota
+## 📫 How to reach me: Tfesshiai001@gmail.com
 
 <!--
 **Tesfaldet22/Tesfaldet22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
